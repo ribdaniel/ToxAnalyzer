@@ -1,4 +1,5 @@
 # ToxAnalyzer
+![ToxAnalyzer Logo](https://raw.githubusercontent.com/ribdaniel/ToxAnalyzer/master/img/bitmap.png)
 Code for the Final Project of DCC909 (Computational Modelling For Bioinformatics). This repo also includes some example data using benzene, which was used as a test compound to check ToxAnalyzer's functionality.
 
 ## What do I need to run ToxAnalyzer
@@ -9,6 +10,7 @@ Simply type ```perl Main.pl``` and then you will be prompted to enter a compound
 
 ## How does it work?
 Check the image below.
+![ToxAnalyzer Functions](https://raw.githubusercontent.com/ribdaniel/ToxAnalyzer/master/img/howitworks.PNG)
 
 
 ## Are the results trustable?
